@@ -1,0 +1,17 @@
+
+DAY 1 DATA QUALITY SUMMARY
+
+Datasets Loaded: 10
+
+AMFI Validation:
+- Total fund codes: 40
+- Matching codes: 40
+- Missing codes: 0
+
+Data Quality Findings:
+- No duplicate records found
+- No missing AMFI codes
+- 12 null values found in monthly_sip_inflows
+- All other datasets are clean
+
+Live NAV fetched successfully for 6 schemes.
